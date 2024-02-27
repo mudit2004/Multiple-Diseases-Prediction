@@ -31,7 +31,7 @@ To run this application locally, follow these steps:
 2. Ensure you have Python and Anaconda installed.
 3. Install the required packages by running `pip install -r requirements.txt`.
 4. Open Spyder from Anaconda Navigator or command line.
-5. Open the Streamlit app file (`app.py`) in Spyder.
+5. Open the Streamlit app file (`Multiple_disease.py`) in Spyder.
 6. Run the Streamlit app.
 7. Access the app via the provided local URL.
 
